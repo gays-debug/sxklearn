@@ -1,3 +1,3 @@
 test git!
 Create a new branch!
-master!
+branch merge!
